@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+body{
+    /* background: url("https://img.freepik.com/premium-photo/pine-trees-with-with-milky-way-night-sky_49071-2229.jpg?w=2000"); */
+    background: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2b253f95-9dd4-4143-a8d8-cd7c00abdf40/dec6cl5-39908449-5bb9-4617-afb3-b57dd28659c1.png/v1/fill/w_1280,h_720,q_80,strp/dark_mountain_scenery_by_aomxart_dec6cl5-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMmIyNTNmOTUtOWRkNC00MTQzLWE4ZDgtY2Q3YzAwYWJkZjQwXC9kZWM2Y2w1LTM5OTA4NDQ5LTViYjktNDYxNy1hZmIzLWI1N2RkMjg2NTljMS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.XpspwBSpJGMMk4Rs2de9H7LVbiJ3QWcgWOk-hICVOnE");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.col-4 h1 {
+    text-align: center;
+    font-size: 25px;
+    /* font-family: 'Cinzel', serif; */
+    font-family: 'EB Garamond', serif;
+    /* color: black; */
+    color:rgba(255, 255, 255, 0.808);
+    margin-top: 20px;
+}
+
+.wrapper {
+    margin-top: 250px;
+    background-color: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(0.5px);
+    height: 150px;
+    width: 300px;
+}
+button{
+    background:transparent;
+    background:rgb(190, 185, 185);
+    border: none;
+    /* font-size: 4px; */
+    /* width: 60px; */
+    /* height: 22px; */
+}
+
+input{
+    border: none;
+}
